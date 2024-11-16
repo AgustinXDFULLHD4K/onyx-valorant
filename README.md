@@ -37,7 +37,7 @@ DLLX1 is an internal trick designed specifically for Valorant. It bears traces o
 * Fov
 * Etc.
 	
-## Minimum System Requirements for Delta Executor (PC)
+## Minimum System Requirements (PC)
 
 To ensure optimal performance, your system should meet these minimum requirements:
 
